@@ -39,7 +39,7 @@
     display: flex;
     align-items: center;
     justify-content: space-between;
-    color:purple;
+    color:blue;
     padding: 20px;
     margin-top: 70px;
     margin-left: -30px;
@@ -63,7 +63,7 @@
     line-height: 1;
     font-weight: bold;
     list-style: none;
-    color: purple;
+    color:blue;
   }
   
   .navbar ul li a:hover {
